@@ -1,0 +1,47 @@
+{
+  "columns": {
+    "backlog": {
+      "name": "Backlog",
+      "tasks": [
+        {
+          "id": 1,
+          "title": "Teste 01",
+          "description": "vamos testar pra ver ",
+          "priority": "Média",
+          "assignee": "Guedes",
+          "due_date": "2025-10-28",
+          "created_at": "2025-10-24T15:24:22.937633",
+          "column": "backlog"
+        }
+      ]
+    },
+    "to_do": {
+      "name": "A Fazer",
+      "tasks": []
+    },
+    "in_progress": {
+      "name": "Em Progresso",
+      "tasks": []
+    },
+    "review": {
+      "name": "Revisão",
+      "tasks": [
+        {
+          "id": 2,
+          "title": "teste 02",
+          "description": "testando ",
+          "priority": "Alta",
+          "assignee": "hiko",
+          "due_date": "2025-10-29",
+          "created_at": "2025-10-24T15:32:31.860454",
+          "column": "review"
+        }
+      ]
+    },
+    "done": {
+      "name": "Concluído",
+      "tasks": []
+    }
+  },
+  "last_id": 2
+}
